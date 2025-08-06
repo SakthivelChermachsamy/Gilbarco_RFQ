@@ -1,0 +1,15 @@
+#button {
+    background-color: #236292e9;
+    color: white;
+}
+
+.bg-section {
+  background-image: url('/src/assets/Factory-Photo.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+#button:hover{
+    background-color: #236292;
+}

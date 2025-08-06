@@ -1,0 +1,51 @@
+{
+  "name": "gilbarco-final-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@firebase/auth": "^1.10.6",
+    "@firebase/firestore": "^4.7.16",
+    "@mui/icons-material": "^7.1.1",
+    "@mui/material": "^7.1.1",
+    "@popperjs/core": "^2.11.8",
+    "axios": "^1.9.0",
+    "bootstrap": "^5.3.6",
+    "countries-list": "^3.1.1",
+    "dotenv": "^16.5.0",
+    "firebase": "^11.8.1",
+    "firebase-admin": "^13.4.0",
+    "formik": "^2.4.6",
+    "framer-motion": "^12.12.1",
+    "gilbarco-final-project": "file:",
+    "lodash.debounce": "^4.0.8",
+    "react": "^19.1.0",
+    "react-bootstrap": "^2.10.10",
+    "react-bootstrap-icons": "^1.11.6",
+    "react-dom": "^19.1.0",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^7.6.0",
+    "react-select": "^5.10.1",
+    "react-toastify": "^11.0.5",
+    "toastify": "^2.0.1",
+    "xlsx": "^0.18.5",
+    "yup": "^1.6.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.25.0",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "@vitejs/plugin-react": "^4.4.1",
+    "eslint": "^9.25.0",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^16.0.0",
+    "vite": "^6.3.5"
+  }
+}
